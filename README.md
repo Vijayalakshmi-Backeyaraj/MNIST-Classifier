@@ -1,6 +1,6 @@
 # MNIST-Classifier
 
-This employs TensorFlow 1. To install it, please create a new environment in anaconda prompt and install tensorflow 1.14 via:
+This classifier employs TensorFlow 1. To install it, please create a new environment in anaconda prompt and install tensorflow 1.14 via:
 
 conda create -n py3-TF1 python=3.7
 conda activate py3-TF1
